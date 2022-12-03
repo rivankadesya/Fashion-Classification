@@ -4,7 +4,7 @@ Ini adalah project untuk handover tugas akhir Startup Campus AI Track
 
 ## Cara Instalasi
 1. buat folder sesuka hati
-2. clone git ini ```git clone https://github.com/AlifvianM/sc-final-project.git```
+2. clone git ini ```git clone https://github.com/rivankadesya/Fashion-Classification.git```
 3. masuk ke folder ``` cd Fashion-Classification ```
 4. membuat environment ``` python -m venv [NAMA_ENV] ```
 5. aktifkan environment 
