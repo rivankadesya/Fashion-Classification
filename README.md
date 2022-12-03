@@ -12,7 +12,7 @@ Ini adalah project untuk handover tugas akhir Startup Campus AI Track
     * mac ``` source [NAMA_ENV]/bin/activate```
 6. install requirements.txt ``` pip install -r requirements.txt ```
 7. Download model .pt dilink berikut [Klik di sini](https://drive.google.com/file/d/1FvvGZ0QI3Rzi1CJ7CY1Xa-zauKhHFdr1/view?usp=sharing)
-8. Buat Folder baru didalam folder Fashion-Classification dan berinama folder ``` models ```
+8. Buat Folder baru didalam folder Fashion-Classification dan beri nama folder ``` models ```
 9. simpan model berformat .pt kedalam folder models
 
 ## Cara Penggunaan
