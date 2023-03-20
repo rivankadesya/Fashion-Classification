@@ -1,6 +1,8 @@
 # sc-final-project
 
 Ini adalah project untuk handover tugas akhir Startup Campus AI Track
+Akurasi 89% pada klasifikasi 11 jenis Label Fashion
+
 
 ## Cara Instalasi
 1. buat folder sesuka hati
